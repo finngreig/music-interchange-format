@@ -10,7 +10,7 @@ The file contains information in JSON. At the root level is an object:
 {
 	"version": "1.0.0",
 	"date": "25/12/2021",
-	music: {
+	"music": {
 		"songs": [],
 		"artists": [],
 		"albums": [],
